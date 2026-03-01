@@ -1,0 +1,12 @@
+gradio
+pymilvus[milvus_lite]
+sentence-transformers>=2.7.0
+transformers>=4.41.0
+huggingface_hub>=0.24.0
+langchain
+langchain-community
+langchain-text-splitters
+pymupdf
+faiss-cpu
+tqdm
+python-dotenv
